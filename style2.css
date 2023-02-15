@@ -1,0 +1,77 @@
+.subnav-hero-section {
+    text-align: center;
+    background: url(MONKEYTEETH.png);
+    background-size: cover;
+    position: relative;
+    overflow: visible;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    height: 800px;
+    background-position: center;
+  }
+  
+  .subnav-hero-section .subnav-hero-headline {
+    color: #fefefe;
+  }
+  
+  .subnav-hero-subnav {
+    float: none;
+    position: absolute;
+    text-align: center;
+    margin: 0 auto;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .subnav-hero-subnav li {
+    float: none;
+    display: inline-block;
+  }
+  
+  .subnav-hero-subnav li a {
+    padding: 0.9rem 1rem;
+    font-size: 2rem;
+    color: #fefefe;
+    text-transform: uppercase;
+    display: block;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: all 0.35s ease-in-out;
+    background-color: rgb(46, 192, 46);
+  }
+  
+  .subnav-hero-subnav li a:hover {
+    background: rgba(46, 192, 46, 0.5);
+  }
+  
+  .subnav-hero-subnav li a:hover {
+    background: rgba(46, 192, 46, 0.5);
+  }
+
+
+.subnav-hero-section h1{
+    font-size:8rem;
+    font:arial;
+    background-color: rgb(46, 192, 46, 0.5);
+}
+
+h2{
+    font-size:2.7rem;
+    text-align: center;
+}
+
+body{
+    background-color:green;
+    
+}
+
+.image{
+    text-align:center;
+}
